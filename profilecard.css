@@ -1,0 +1,28 @@
+
+h5{
+    color: darkmagenta;
+}
+.body_one{
+    background-color:darkmagenta;
+}
+.img{
+    margin-left: 70px;
+    border-radius: 50%;
+    margin-top: 20px;
+    border: 2px solid rgb(100, 24, 100);
+    padding: 4px;
+}
+.button{
+    color: white;
+    background-color: rgb(100, 24, 100);
+}
+.size{
+    font-size: 60px;
+}
+.i1{
+    color: darkmagenta;
+}
+.i2{
+    border-color: darkmagenta;
+}
+

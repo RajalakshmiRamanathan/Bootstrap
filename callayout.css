@@ -1,0 +1,76 @@
+.container1{
+    background-image: url("https://images.hdqwalls.com/wallpapers/girl-with-wings-angel-e8.jpg");
+    height: 600px;
+    background-size: cover;
+}
+.child-container{
+    padding: 50px;
+    margin-right: 400px;
+    margin-top: 50px;
+    
+}
+.btn{
+    border: 1px solid black;
+    border-radius: 20px;
+}
+.div1{
+    background-color: black;
+}
+.div2{
+    background-color: cyan;
+}
+.div3{
+    background-color: black;
+}
+.bg{
+    background-color: black;
+}
+.bg2{
+    background-color: cyan;
+}
+.bg3{
+    background-color: darkcyan;
+}
+.p2{
+    padding: 20px;
+}
+.icon{
+    font-size: 40px;
+    text-align: center;
+}
+.ic{
+    border: 1px solid cyan;
+    border-radius: 50%;
+    padding: 10px;
+    background-color: cyan;
+}
+.btn1{
+    border: 1px solid cyan;
+    color: black;
+    width: 200px;
+}
+.btn2{
+    border: solid cyan;
+    background-color: cyan;
+    color: white;
+    border-radius: 20px;
+}
+.btn3{
+    background-color: white;
+    color: cyan;
+    border: solid cyan;
+    border-radius: 20px;
+    padding: 4px;
+}
+.getm{
+    padding-left: 30px;
+}
+.btn4{
+    background-color: black;
+    color: white;
+    border: solid white;
+    padding: 6px;
+}
+.div4{
+    padding: 10px;
+}

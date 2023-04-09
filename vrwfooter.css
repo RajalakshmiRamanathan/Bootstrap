@@ -1,0 +1,44 @@
+.bg{
+    background-color: #19232d;
+    background-size: cover;
+    background-repeat: no-repeat;
+   }
+   .m1{
+       margin-left: 400px;
+       
+   }
+   .m2{
+       margin-left: 700px;
+   }
+   .b1{
+       background-color: #5a7184;
+       border: 2px solid  #202b36;
+       border-radius: 40px;
+       padding-left: 15px;
+       padding-top: 16px;
+   
+   }
+   
+   @media screen and (max-width:767px) 
+    {
+       img 
+       {
+           
+           margin-left: 150px;
+       }
+       p{
+          font-size: 2opx;
+           margin-left: 100px;
+       }
+   }
+   .h1{
+      
+       color: aliceblue;
+   }
+   .s{
+       
+       font-size: 20px;
+   }
+   .s1{
+       font-size: 20px;
+   }
